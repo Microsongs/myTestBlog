@@ -1,0 +1,9 @@
+<p lang="zh">ÞÅ??</p>
+<p lang="ja">ª¬ªóªÐªì</p>
+<p lang="ko">Èû³»</p>
+<p lang="en">Fighting!</p>
+
+:lang(zh) {font-family:'LiHei Pro Medium', sans-serif}
+:lang(ko) {font-family:'nanum gothic', sans-serif}
+:lang(ja) {font-family:osaka, sans-serif}
+:lang(en) {font-family:'helvetica neue', sans-serif}
